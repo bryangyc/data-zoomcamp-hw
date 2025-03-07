@@ -1,0 +1,7 @@
+*/data
+*.parquet
+*.csv
+*.gzip
+*.gz
+*.toml
+*.lock
